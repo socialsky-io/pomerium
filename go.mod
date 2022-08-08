@@ -9,7 +9,7 @@ require (
 	github.com/CAFxX/httpcompression v0.0.8
 	github.com/DataDog/opencensus-go-exporter-datadog v0.0.0-20200406135749-5c268882acf0
 	github.com/VictoriaMetrics/fastcache v1.10.0
-	github.com/caddyserver/certmagic v0.16.0
+	github.com/caddyserver/certmagic v0.16.2
 	github.com/cenkalti/backoff/v4 v4.1.3
 	github.com/cespare/xxhash/v2 v2.1.2
 	github.com/client9/misspell v0.3.4
@@ -37,7 +37,7 @@ require (
 	github.com/jackc/pgtype v1.11.0
 	github.com/jackc/pgx/v4 v4.16.1
 	github.com/martinlindhe/base36 v1.1.0
-	github.com/mholt/acmez v1.0.2
+	github.com/mholt/acmez v1.0.4
 	github.com/mitchellh/hashstructure/v2 v2.0.2
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/natefinch/atomic v0.0.0-20200526193002-18c0533a5b09
@@ -67,7 +67,7 @@ require (
 	go.opencensus.io v0.23.0
 	go.uber.org/zap v1.21.0
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
-	golang.org/x/net v0.0.0-20220607020251-c690dde0001d
+	golang.org/x/net v0.0.0-20220630215102-69896b714898
 	golang.org/x/oauth2 v0.0.0-20220524215830-622c5d57e401
 	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f
 	google.golang.org/api v0.83.0
